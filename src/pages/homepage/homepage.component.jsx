@@ -27,7 +27,7 @@ const HomePage = ({ logout }) => {
   return (
     <Fragment>
       <a
-        href="https://wa.me/7248608059"
+        href="https://wa.me/8054097108"
         className="bg-success"
         style={{
           position: "fixed",
@@ -86,7 +86,7 @@ const HomePage = ({ logout }) => {
                 </p>
                 <div>
                   <a
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                     className="btn btn-success"
                   >
                     <WhatsAppIcon />
@@ -127,7 +127,7 @@ const HomePage = ({ logout }) => {
                 </p>
                 <div>
                   <a
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                     className="btn btn-success"
                   >
                     <WhatsAppIcon />
@@ -324,7 +324,7 @@ const HomePage = ({ logout }) => {
 
                   <a
                     className="font-weight-bold alt-font"
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                   >
                     Learn More
                   </a>
@@ -346,7 +346,7 @@ const HomePage = ({ logout }) => {
 
                   <a
                     className="font-weight-bold alt-font"
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                   >
                     Learn More
                   </a>
@@ -367,7 +367,7 @@ const HomePage = ({ logout }) => {
                   <h4 className="mb-3">Card payment</h4>
 
                   <a
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                     className="font-weight-bold alt-font"
                   >
                     Learn More
@@ -390,7 +390,7 @@ const HomePage = ({ logout }) => {
 
                   <a
                     className="font-weight-bold alt-font"
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                   >
                     Learn More
                   </a>
@@ -454,7 +454,7 @@ const HomePage = ({ logout }) => {
                   <p>
                     I trusted in their administration and they didn’t leave me
                     in any hazard, they helped me accomplished my dream score
-                    which is 800, thank you Creative   CreditFix 
+                    which is 800, thank you Creative CreditFix
                   </p>
                 </div>
               </div>
@@ -509,7 +509,7 @@ const HomePage = ({ logout }) => {
                   </li>
                 </ul>
                 <a
-                  href="https://wa.me/7248608059"
+                  href="https://wa.me/8054097108"
                   class="btn btn-large btn-green d-block mt-3"
                 >
                   Get The Package Now
@@ -552,7 +552,7 @@ const HomePage = ({ logout }) => {
                   </li>
                 </ul>
                 <a
-                  href="https://wa.me/7248608059"
+                  href="https://wa.me/8054097108"
                   class="btn btn-large btn-green d-block mt-3"
                 >
                   Get The Package Now
@@ -595,7 +595,7 @@ const HomePage = ({ logout }) => {
                   </li>
                 </ul>
                 <a
-                  href="https://wa.me/7248608059?text=Send direct message to Creative Creditfix admin"
+                  href="https://wa.me/8054097108?text=Send direct message to Creative Creditfix admin"
                   class="btn btn-large btn-green d-block mt-3"
                 >
                   Get The Package Now
@@ -629,7 +629,7 @@ const HomePage = ({ logout }) => {
               <ul class="footer-icon">
                 <li>
                   <a
-                    href="https://wa.me/7248608059?text=Send direct message to Creative Creditfix admin"
+                    href="https://wa.me/8054097108?text=Send direct message to Creative Creditfix admin"
                     class="facebook-text-hvr"
                   >
                     <i class="la la-whatsapp"></i>

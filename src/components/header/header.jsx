@@ -10,14 +10,14 @@ export default function PrimarySearchAppBar() {
           <div className="row">
             <div className="col-6">
               <div className="address text-left">
-                <Tel /> (724) 860-8059
+                <Tel /> (805) 409-7108
               </div>
             </div>
             <div className="col-6">
               <ul className="header-social text-right">
                 <li>
                   <a
-                    href="https://wa.me/7248608059"
+                    href="https://wa.me/8054097108"
                     className="facebook-text-hvr"
                   >
                     <WhatsAppIcon />
