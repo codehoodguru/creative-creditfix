@@ -17,7 +17,7 @@ export default function PrimarySearchAppBar() {
               <ul className="header-social text-right">
                 <li>
                   <a
-                    href="https://wa.me/8054097108"
+                    href="https://wa.me/18054097108?text=Send direct message to Creative Creditfix admin"
                     className="facebook-text-hvr"
                   >
                     <WhatsAppIcon />
