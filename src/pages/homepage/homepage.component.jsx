@@ -452,12 +452,9 @@ const HomePage = ({ logout }) => {
                 <div class="card-block p-4">
                   <h6 class="small text-wide p-b-2">Donald Simpson</h6>
                   <p>
-                    Basically, expunged records are ones that no longer legally
-                    exist.In theory, having a record expunged means that it is
-                    deleted from all publicly accessible databases or court
-                    files. The specifics depend on the state laws, but
-                    generally, charges, arrests, and minor convictions are all
-                    legally eligible to be expunged.
+                    I trusted in their administration and they didn’t leave me
+                    in any hazard, they helped me accomplished my dream score
+                    which is 800, thank you Creative   CreditFix 
                   </p>
                 </div>
               </div>
