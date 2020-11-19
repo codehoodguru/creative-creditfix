@@ -315,7 +315,7 @@ const HomePage = ({ logout }) => {
                 <div className="blog-img">
                   <img
                     style={{ height: "200px" }}
-                    src="https://creditbackdoors.com/wp-content/uploads/2018/05/apps.48503.14583974841368285.ec9f9696-6464-4300-b8f8-d0d7d38a33d5.383cbbe4-3b7f-4b92-aaa0-de5c41402e94-550x432.jpg"
+                    src={require("./img/1.jpg")}
                     alt="001001"
                   />
                 </div>
@@ -337,7 +337,7 @@ const HomePage = ({ logout }) => {
                 <div className="blog-img">
                   <img
                     style={{ height: "200px" }}
-                    src="https://creditbackdoors.com/wp-content/uploads/2018/05/Bitcoin-Mining-Intensifies-During-Q4-of-2016-545x255.jpg"
+                    src={require("./img/2.jpg")}
                     alt="001001"
                   />
                 </div>
@@ -359,7 +359,7 @@ const HomePage = ({ logout }) => {
                 <div className="blog-img">
                   <img
                     style={{ height: "200px" }}
-                    src="https://creditbackdoors.com/wp-content/uploads/2018/05/cre.jpg"
+                    src={require("./img/3.jpg")}
                     alt="001001"
                   />
                 </div>
@@ -381,7 +381,7 @@ const HomePage = ({ logout }) => {
                 <div className="blog-img">
                   <img
                     style={{ height: "200px" }}
-                    src="https://creditbackdoors.com/wp-content/uploads/2016/01/expu-265x183.jpg"
+                    src={require("./img/4.jpg")}
                     alt="001001"
                   />
                 </div>
@@ -413,7 +413,7 @@ const HomePage = ({ logout }) => {
                       borderRadius: "100%",
                     }}
                     class="img-fluid"
-                    src="https://creditbackdoors.com/wp-content/uploads/2016/01/IMG_2083-100x100-1.jpg"
+                    src={require("./img/6.jpg")}
                     alt="Carousel 1"
                   />
                 </div>
@@ -445,7 +445,7 @@ const HomePage = ({ logout }) => {
                       borderRadius: "100%",
                     }}
                     class="img-fluid"
-                    src="https://creditbackdoors.com/wp-content/uploads/2018/01/testimonial-3-1-350x348-1.jpg"
+                    src={require("./img/5.jpg")}
                     alt="Carousel 4"
                   />
                 </div>
